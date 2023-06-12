@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/manickjamadar/manickjamadar/main/Github%20Banner.png)](https://github.com/manickjamadar)
 <h1 align="center">Hi 👋, I'm Manick Jamadar</h1>
-<h3 align="center">A passionate Full MERN Stack and React Native Developer from India</h3>
+<h3 align="center">A passionate React Native Developer, Full Stack Developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manickjamadar&label=Profile%20views&color=0e75b6&style=flat" alt="manickjamadar" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 Checkout my website [manickjamadar.com](https://manickjamadar.com)
 
-- 💬 Ask me about **React Native, React, Flutter**
+- 💬 Ask me about **React Native, React, NodeJs, Firebase**
 
 - 📫 How to reach me **contact@manickjamadar.com**
 
