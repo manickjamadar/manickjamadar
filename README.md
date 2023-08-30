@@ -8,7 +8,7 @@
 
 - 👨‍💻 Checkout my website [manickjamadar.com](https://manickjamadar.com)
 
-- 💬 Ask me about **React Native, React, NodeJs, Firebase**
+- 💬 Ask me about **FrontEnd Development, Backend Development and UI UX design**
 
 - 📫 How to reach me **contact@manickjamadar.com**
 
