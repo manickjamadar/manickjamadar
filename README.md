@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/manickjamadar/manickjamadar/main/Github%20Banner%202.png)](https://github.com/manickjamadar)
 <h1 align="center">Hi 👋, I'm Manick Jamadar</h1>
-<h3 align="center">A passionate and Skilled Full Stack Web Developer and UI/UX Designer</h3>
+<h3 align="center">A passionate and Skilled Front End Developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/manickjamadar/manickjamadar/blob/main/hero-photo.png?raw=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manickjamadar&label=Profile%20views&color=0e75b6&style=flat" alt="manickjamadar" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 Checkout my website [manickjamadar.com](https://manickjamadar.com)
 
-- 💬 Ask me about **FrontEnd Development, Backend Development and UI UX design**
+- 💬 Ask me about **FrontEnd Development and UI UX design**
 
 - 📫 How to reach me **contact@manickjamadar.com**
 
