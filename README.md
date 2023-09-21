@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/manickjamadar/manickjamadar/main/github-banner.png)](https://github.com/manickjamadar)
+[![MasterHead](https://raw.githubusercontent.com/manickjamadar/manickjamadar/main/github-banners.png)](https://github.com/manickjamadar)
 <h1 align="center">Hi 👋, I'm Manick Jamadar</h1>
 <h3 align="center">A passionate and Skilled Full Stack Web Developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/manickjamadar/manickjamadar/blob/main/hero-photo.png?raw=true"/>
